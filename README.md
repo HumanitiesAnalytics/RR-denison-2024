@@ -52,9 +52,8 @@ This hands-on session will invite a critical conversation about how liberal arts
 
 ## Links
 
-Slides: https://bit.ly/4ctwvii
-Survey: https://bit.ly/denison-RR-2024-survey
-Repo: https://bit.ly/denison-RR-2024
-
+- Slides: https://bit.ly/4ctwvii
+- Survey: https://bit.ly/denison-RR-2024-survey
+- Repo: https://bit.ly/denison-RR-2024
 
 ---
